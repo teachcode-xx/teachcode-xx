@@ -60,7 +60,7 @@ I’m currently exploring the **AI/ML world** to expand my career into intellige
 - 📚 Learning **Python for AI & ML**  
 - 🔬 Studying **Machine Learning fundamentals** (Scikit-learn, Pandas, NumPy)  
 - 🤖 Hands-on with **Neural Networks & Deep Learning** using **TensorFlow & PyTorch**  
-- 🔍 Experimenting with **Generative AI & LLMs (ChatGPT, LangChain, RAG)**  
+#- 🔍 Experimenting with **Generative AI & LLMs (ChatGPT, LangChain, RAG)**  
 - 🚀 Future Goal: Combine my **.NET expertise with AI** to build **intelligent SaaS products**  
 
 ---
