@@ -9,7 +9,7 @@
 
 💻 **Software Developer | .NET Enthusiast | Full-Stack Explorer**  
 
-With over **6+ years of professional experience**, I specialize in **ASP.NET, C#, MVC5, and JavaScript**, building scalable and efficient applications 🚀.  
+With over **7+ years of professional experience**, I specialize in **ASP.NET, C#, MVC5, and JavaScript**, building scalable and efficient applications 🚀.  
 I enjoy solving complex problems, designing scalable systems, and I’m currently expanding my knowledge into **Artificial Intelligence & Machine Learning** 🤖.  
 
 ---
